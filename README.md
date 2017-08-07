@@ -1,3 +1,3 @@
 # Basic Display File Editor
 
-![](http://i.imgur.com/S44fPmL.png)
+![](http://i.imgur.com/XA6Gahx.png)
