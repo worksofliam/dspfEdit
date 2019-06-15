@@ -254,7 +254,7 @@ namespace dspfEdit
 
             if (Field.fieldType != FieldInfo.FieldType.Const)
             {
-                Definition = "     A            " + Field.Name.PadRight(10) + " " + Field.Length.ToString().Trim().PadRight(5);
+                Definition = "     A            " + Field.Name.PadRight(10) + " " + Field.Length.ToString().Trim().PadLeft(5);
                 switch (Field.dataType)
                 {
                     case FieldInfo.DataType.Decimal:
